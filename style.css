@@ -9,5 +9,10 @@ h1 {
     font-style: italic;
     text-align: center;
     padding: 80px 40px;
+    background-color: rgb(189, 59, 182);
 
+}
+
+.main-text {
+   background-color: brown;
 }
