@@ -10,8 +10,7 @@ h1 {
     text-align: center;
     padding: 80px 40px;
     background-color: rgb(189, 59, 182);
-    margin-bottom: 0px;
-
+    border: solid black;
 }
 
 .button {
