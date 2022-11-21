@@ -3,7 +3,24 @@
     padding: 0;
 }
 
-h1 {
+.hero-image {
+    border-radius: 100%;
+}
+
+.menu-princial {
+    font-size: 35px;
+    color: blue;
+    border: solid black;
+    text-align: center;
+}
+
+.menu-princial li {
+    display: inline;
+}
+
+
+
+#header {
     font-size: 80px;
     font-weight: bold;
     font-style: italic;
@@ -18,10 +35,6 @@ h1 {
     background-color: green;
     font-weight: bold;
     border-radius: 1%;
-
-    
-    
-
 }
 
 .main-text {
