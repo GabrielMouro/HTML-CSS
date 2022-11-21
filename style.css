@@ -10,6 +10,7 @@ h1 {
     text-align: center;
     padding: 80px 40px;
     background-color: rgb(189, 59, 182);
+    margin-bottom: 0px;
 
 }
 
@@ -30,6 +31,7 @@ h1 {
    overflow: auto;
    height: 300px;
    margin-left: 10px;
+   margin-bottom: 0px;
 }
 
 .bentonildo{
